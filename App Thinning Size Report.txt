@@ -1,0 +1,8 @@
+
+App Thinning Size Report for All Variants of HBuilder
+
+Variant: HBuilder-iPhone 6s Plus.ipa
+Supported devices: iPhone 6s Plus
+App + On Demand Resources size: 12 MB compressed, 25.3 MB uncompressed
+App size: 12 MB compressed, 25.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

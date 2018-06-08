@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HBuilder.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>C3C6C94F5DADFD6E959B5664A6C9893F7AA42DF3</string>
+				<key>dateExpires</key>
+				<string>2021/6/7</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Z4XFX6LT28.com.geostar.dyd</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Z4XFX6LT28</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>Z4XFX6LT28.com.geostar.dyd</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>HBuilder.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f2bfc63b-75d2-4b0a-9e70-e86316b14746</string>
+				<key>name</key>
+				<string>com.geostar.did.Profile</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Z4XFX6LT28</string>
+				<key>name</key>
+				<string>Wuda Geoinformatics Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
